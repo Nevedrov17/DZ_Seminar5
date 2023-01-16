@@ -1,6 +1,6 @@
 from random import randint as ri
 
-total_sweet = 150
+total_sweet = 2021
 take_sweet = 0
 player_sweet = 0
 bot_sweet = 0
